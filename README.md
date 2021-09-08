@@ -16,7 +16,8 @@ It provides the following features:
 * Multiroom Sync
 * Low-latency bypass
 * Web interface
+* (future) DSP
 
-Airplay already provides Multiroom Sync for itself. But any of the other sources (Bluetooth, uPnP, AUX, S/PDIF) can be used as Multiroom Sync source too using Snapcast. This means that you can connect to one speaker from your phone as if it were a Bluetooth speaker and have it play on all your snapcast-enabled speakers throughtout your house!
+Airplay already provides Multiroom Sync for itself. But any of the other sources (Bluetooth, uPnP, AUX, S/PDIF) can be used as Multiroom Sync source too using Snapcast. This means that you can connect to one speaker from your phone as if it were a Bluetooth speaker and have it play on all your snapcast-enabled speakers throughtout your house! The low-latency bypass mode bypasses the snapcast server buffering to provide a better home theater experience.
 
 THIS PROJECT IS STILL A WORK IN PROGRESS.

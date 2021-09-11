@@ -20,4 +20,6 @@ It provides the following features:
 
 Airplay already provides Multiroom Sync for itself. But any of the other sources (Bluetooth, uPnP, AUX, S/PDIF) can be used as Multiroom Sync source too using Snapcast. This means that you can connect to one speaker from your phone as if it were a Bluetooth speaker and have it play on all your snapcast-enabled speakers throughtout your house! The low-latency bypass mode bypasses the snapcast server buffering to provide a better home theater experience.
 
+Thanks to Akiyuki Okayasu for the base for the [I2S slave Device tree overlay](https://github.com/AkiyukiOkayasu/RaspberryPi_I2S_Slave).
+
 THIS PROJECT IS STILL A WORK IN PROGRESS.

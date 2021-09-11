@@ -1,0 +1,7 @@
+test commands
+
+// pipe I2S in to audio out
+arecord -D plughw:1,1 -f dat - | aplay -
+
+// test audio out
+speaker-test -t wav -c 2

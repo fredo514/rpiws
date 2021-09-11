@@ -1,0 +1,6 @@
+snapcast install
+
+1. install dependencies
+	
+	
+2. 

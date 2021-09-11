@@ -1,0 +1,8 @@
+- Update all
+- Copy dtbo
+- Update /boot/config.txt
+- Install shairport-sync standalone
+- Install bluez ? output
+- Install snapcast
+- Install autoaccept bluetooth
+- Install switchover script

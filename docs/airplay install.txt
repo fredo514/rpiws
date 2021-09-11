@@ -1,0 +1,15 @@
+Airplay install
+
+1. Install dependencies
+	build-essential git xmltoman autoconf automake libtool libpopt-dev libconfig-dev libasound2-dev avahi-daemon libavahi-client-dev libssl-dev libsoxr-dev
+
+2. Add users and groups
+
+3. Clone repo
+
+4. Compile with
+	stdout
+
+5. Configure
+
+6. Enable service and start

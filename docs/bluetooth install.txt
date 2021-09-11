@@ -1,0 +1,25 @@
+Bluetooth install
+
+1. Install dependencies
+	bluealsa bluez-utils python-dbus
+
+2. Add users and groups
+
+3. Configure bluetooth
+	3.1. Change device name
+	3.2. Make A2DP sink
+	3.3. Make permanently discoverable
+
+4. Create volume watcher service
+
+Start bluetooth service
+Start bluetooth auto-trust-a2dp service
+Start bluetooth connect event service
+Start volume watcher service
+
+(if using onboard sound
+	Fix pi audio quality
+else
+	Enable I2S sound)
+	
+disable onboard bluetooth

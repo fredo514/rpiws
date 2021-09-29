@@ -11,6 +11,7 @@ It provides the following features:
 * Bluetooth A2DP sink with volume control
 * Airplay sink
 * uPnP sink
+* Spotify Connect client
 * AUX input
 * S/PDIF input
 * Multiroom Sync

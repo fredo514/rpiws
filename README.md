@@ -14,6 +14,7 @@ It provides the following features:
 * Spotify Connect client
 * AUX input
 * S/PDIF input
+* (future) USB input?
 * Multiroom Sync
 * Low-latency bypass
 * Web interface
